@@ -3,9 +3,10 @@
 ###
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=monnydyas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="320" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monnydyas&theme=dracula" height="320" alt="monnydyas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=monnydyas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="300" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=monnydyas&locale=en&hide_title=false&&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="360" alt="languages graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monnydyas&theme=dracula" height="300" alt="monnydyas" />
+  
 </div>
 
 ###
