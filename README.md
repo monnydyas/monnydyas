@@ -4,7 +4,7 @@
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=monnydyas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" width="370" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=monnydyas&locale=en&hide_title=false&&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="260" width="315" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=monnydyas&locale=en&hide_title=false&&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="260" width="330" alt="languages graph"  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=monnydyas&theme=dracula" height="200" width="370" alt="monnydyas" />
   
 </div>
