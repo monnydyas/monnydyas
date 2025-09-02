@@ -1,8 +1,15 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&text=👩🏼‍💻%20Bem-vindo(a)%20ao%20perfil%20de%20Monnydyas!!%20✨🚀✨&reversal=true&fontSize=25&animation=fadeIn&fontAlignY=30"/>
+![Header](./your-header-image-name.png)
+
+<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up? 👩🏼‍💻✨</h1>
+
+<p> My name is Mônica and I'm a software developer, from <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> <b>Brasil</b>.</p>
+
+###
+<h2 align="left">About me</h2>
 
 ###
 
-<h2 align="left">🤖 Linguagens e Tecnologias</h2>
+<h2 align="left">🤖 I code with</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
