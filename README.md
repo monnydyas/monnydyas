@@ -1,40 +1,22 @@
-![Header](./your-header-image-name.png)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0959b0&fontColor=ffff" />
+
+###
 
 <h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up? 👩🏼‍💻✨</h1>
 
 <p> My name is Mônica and I'm a software developer, from <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> <b>Brasil</b>.</p>
 
 ###
+
 <h2 align="left">About me</h2>
+✨ I am passionate about solving problems using programming.<br>
+👩🏼‍💻 Software Engineer sharing about my journey and learnings in tech<br>
+🌱 Currently learning about React, Typescript and Node.js<br>
 
-###
+### My stack and tools
 
-<h2 align="left">🤖 I code with</h2>
+  ![My Skills](https://skillicons.dev/icons?i=git,github,js,ts,html,css,vscode,react,nodejs,postgresql,tailwind,nextjs)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo" />
-  <img width="15" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="50" alt="postgresql logo" />
-  <img width="15" />
-  <img src="/assets/GitHub.png"  height="50" alt="github logo">
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" height="50" alt="azuredevops logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="tailwindcss logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo" />
-  <img width="15" />
-</div>
 
 ###
 
@@ -54,7 +36,12 @@
   <a href = "mailto:monnydyas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&label=&color=D14836&logoColor=white" target="_blank"></a>
 <a href="https://discord.gg/monnydyas" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&label=&color=7289DA&logoColor=white" target="_blank"></a> 
 </div>
-  
+
+
+![](https://komarev.com/ghpvc/?username=monnydyas&style=flat-square&color=e75963)
+![GitHub Total Stars](https://img.shields.io/github/stars/monnydyas?style=flat-square&color=f0c107)
+
 ###
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0959b0&fontColor=ffff&section=footer" />
 
