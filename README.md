@@ -21,7 +21,7 @@
 
 <br>
 
-### 🔹 Estatísticas
+### 🔹 Github Stats
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=monnydyas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="200" width="370" alt="stats graph"  />
@@ -31,7 +31,7 @@
 
 <br>
 
-### 🔹 Para conteúdo sobre programação me siga nas redes sociais!
+### 🔹 Follow me on social media!
 <div>
   <a href="https://www.linkedin.com/in/monica-rd1985/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&label=&color=0077B5&logoColor=white&rounded=true" target="_blank"></a> 
   <a href = "mailto:monnydyas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&label=&color=D14836&logoColor=white&rounded=true" target="_blank"></a>
