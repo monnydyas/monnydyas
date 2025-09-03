@@ -8,7 +8,7 @@
 
 <br>
 
-## 🔹 About me
+### 🔹 About me
 ⭐️ I am passionate about solving problems using programming.<br>
 👩🏼‍💻 Software Engineer sharing about my journey and learnings in tech<br>
 🌱 Currently learning about React, Typescript and Node.js<br>
