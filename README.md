@@ -38,9 +38,11 @@
 <a href="https://discord.gg/monnydyas" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&label=&color=7289DA&logoColor=white&rounded=true" target="_blank"></a> 
 </div>
 
+<br>
 
 ![Visitas no perfil](https://komarev.com/ghpvc/?username=monnydyas&color=blue)
 ![GitHub stars](https://img.shields.io/github/stars/monnydyas?style=social)
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0959b0&fontColor=ffff&section=footer" />
 
