@@ -1,37 +1,45 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0959b0&fontColor=ffff" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+&nbsp; <!-- Add space -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Impact&duration=3000&pause=300&color=0979b0&size=36&center=true&vCenter=true&width=600&height=60&lines=+✨+Welcome+to+my+Github+✨+;"></a>
+</p>
 
-###
+&nbsp; <!-- Add space -->
 
-## ✨ Hey!! What's up? 👩🏼‍💻 ✨
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWQ1eG1hM3FxZmJjd3c3MDRlNmd3OHY5eXptNzNjdmY4ajd6ZmRucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2t9xWdjuhTpa99pLma/giphy.gif" width ="25"><b> Hey!! What's up? 👩🏼‍💻</b>
 
 <p> My name is Mônica and I'm a software developer, from <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> <b>Brasil</b>.</p>
 
 <br>
 
-### 🔹 About me
+## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXN4Yms5aGFwcDRhNTltMG5hdmIzNzV3cTAwbW9jNHJpeXBpdXJ3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/19eB0RWAzSYayHoy9z/giphy.gif" width ="25"><b> About me</b>
 ⭐️ I am passionate about solving problems using programming.<br>
 👩🏼‍💻 Software Engineer sharing about my journey and learnings in tech<br>
 🌱 Currently learning about React, Typescript and Node.js<br>
 
 <br>
 
-### 🔹 My stack and tools
+
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> My Stack & Tools</b>
 
   ![My Skills](https://skillicons.dev/icons?i=git,github,js,ts,html,css,vscode,react,nodejs,postgresql,tailwind,nextjs)
 
 <br>
 
-### 🔹 Github Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=monnydyas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="200" width="370" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=monnydyas&locale=en&hide_title=false&&layout=compact&langs_count=5&theme=dracula&hide_border=true" height="260" width="330" alt="languages graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monnydyas&theme=dracula&hide_border=true" height="200" width="370" alt="monnydyas" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monnydyas&theme=dracula&hide_border=true" height="200" width="370" alt="stats graph" />
+  <img height="228em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monnydyas&theme=dracula" alt="contibutions graph" />
 </div>
 
 <br>
 
-### 🔹 Follow me on social media!
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWRwanM3YzJtaDk0Y3Q1bnk1cGx4cXdyYmV1NDU3OXpmZDFpcW1nOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4No6ZQCBgRhhjUUPez/giphy.gif" width ="25"><b> Follow me on Social Media!</b>
+
 <div>
   <a href="https://www.linkedin.com/in/monica-rd1985/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&label=&color=0077B5&logoColor=white&rounded=true" target="_blank"></a> 
   <a href = "mailto:monnydyas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&label=&color=D14836&logoColor=white&rounded=true" target="_blank"></a>
@@ -43,6 +51,6 @@
 ![Visitas no perfil](https://komarev.com/ghpvc/?username=monnydyas&color=blue)
 ![GitHub stars](https://img.shields.io/github/stars/monnydyas?style=social)
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0959b0&fontColor=ffff&section=footer" />
 
