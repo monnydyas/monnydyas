@@ -6,13 +6,13 @@
 
 &nbsp; <!-- Add space -->
 
-## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWQ1eG1hM3FxZmJjd3c3MDRlNmd3OHY5eXptNzNjdmY4ajd6ZmRucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2t9xWdjuhTpa99pLma/giphy.gif" width ="25"><b> Hey!! What's up? 👩🏼‍💻</b>
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWQ1eG1hM3FxZmJjd3c3MDRlNmd3OHY5eXptNzNjdmY4ajd6ZmRucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2t9xWdjuhTpa99pLma/giphy.gif" width ="30"><b> Hey!! What's up? 👩🏼‍💻</b>
 
 <p> My name is Mônica and I'm a software developer, from <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> <b>Brasil</b>.</p>
 
 <br>
 
-## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXN4Yms5aGFwcDRhNTltMG5hdmIzNzV3cTAwbW9jNHJpeXBpdXJ3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/19eB0RWAzSYayHoy9z/giphy.gif" width ="25"><b> About me</b>
+## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXN4Yms5aGFwcDRhNTltMG5hdmIzNzV3cTAwbW9jNHJpeXBpdXJ3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/19eB0RWAzSYayHoy9z/giphy.gif" width ="30"><b> About me</b>
 ⭐️ I am passionate about solving problems using programming.<br>
 👩🏼‍💻 Software Engineer sharing about my journey and learnings in tech<br>
 🌱 Currently learning about React, Typescript and Node.js<br>
@@ -21,20 +21,37 @@
 
 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> My Stack & Tools</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"><b> My Stack & Tools</b>
 
   ![My Skills](https://skillicons.dev/icons?i=git,github,js,ts,html,css,vscode,react,nodejs,postgresql,tailwind,nextjs,figma,vscode)
 
 <br>
 
-<div>
-  <h2>🐍 My Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/monnydyas/monnydyas/output/github-contribution-grid-snake.svg" width="100%" />
-  
-  <br/><br/><br/>
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG85aXdwNXM0bXZuNjRtcmFsanRtdjdmaTJ2dzVsNGpoc3VkNTMzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cZRV5iQPg7dh2Ffsgg/giphy.gif" width ="30"><b> My Contributions</b>
+
+<div align="center">
+
+ <picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/monnydyas/monnydyas/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/monnydyas/monnydyas/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    width="100%"
+    src="https://raw.githubusercontent.com/monnydyas/monnydyas/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+ <br/>
+ 
 </div>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"><b> Github Stats </b>
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=monnydyas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="200" width="370" alt="stats graph"  />
@@ -45,7 +62,7 @@
 
 <br>
 
-## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWRwanM3YzJtaDk0Y3Q1bnk1cGx4cXdyYmV1NDU3OXpmZDFpcW1nOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4No6ZQCBgRhhjUUPez/giphy.gif" width ="25"><b> Follow me on Social Media!</b>
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWRwanM3YzJtaDk0Y3Q1bnk1cGx4cXdyYmV1NDU3OXpmZDFpcW1nOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4No6ZQCBgRhhjUUPez/giphy.gif" width ="30"><b> Follow me on Social Media!</b>
 
 <div>
   <a href="https://www.linkedin.com/in/monica-rd1985/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&label=&color=0077B5&logoColor=white&rounded=true" target="_blank"></a> 
