@@ -10,22 +10,20 @@
 
 <p> My name is Mônica and I'm a software developer, from <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> <b>Brasil</b>.</p>
 
-<br>
+&nbsp; <!-- Add space -->
 
 ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXN4Yms5aGFwcDRhNTltMG5hdmIzNzV3cTAwbW9jNHJpeXBpdXJ3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/19eB0RWAzSYayHoy9z/giphy.gif" width ="30"><b> About me</b>
 ⭐️ I am passionate about solving problems using programming.<br>
 👩🏼‍💻 Software Engineer sharing about my journey and learnings in tech<br>
 🌱 Currently learning about React, Typescript and Node.js<br>
 
-<br>
-
-
+&nbsp; <!-- Add space -->
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"><b> My Stack & Tools</b>
 
   ![My Skills](https://skillicons.dev/icons?i=git,github,js,ts,html,css,vscode,react,nodejs,postgresql,tailwind,nextjs,figma,vscode)
 
-<br>
+&nbsp; <!-- Add space -->
 
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG85aXdwNXM0bXZuNjRtcmFsanRtdjdmaTJ2dzVsNGpoc3VkNTMzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cZRV5iQPg7dh2Ffsgg/giphy.gif" width ="30"><b> My Contributions</b>
 
@@ -47,7 +45,7 @@
   />
 </picture>
 
- <br/>
+&nbsp; <!-- Add space -->
  
 </div>
 
@@ -60,7 +58,7 @@
   <img height="228em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monnydyas&theme=dracula" alt="contibutions graph" />
 </div>
 
-<br>
+&nbsp; <!-- Add space -->
 
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWRwanM3YzJtaDk0Y3Q1bnk1cGx4cXdyYmV1NDU3OXpmZDFpcW1nOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4No6ZQCBgRhhjUUPez/giphy.gif" width ="30"><b> Follow me on Social Media!</b>
 
@@ -74,6 +72,16 @@
 
 ![Visitas no perfil](https://komarev.com/ghpvc/?username=monnydyas&color=blue)
 ![GitHub stars](https://img.shields.io/github/stars/monnydyas?style=social)
+[![GitHub followers](https://img.shields.io/github/followers/monnydyas?style=social)](https://github.com/monnydyas)
+<img src="https://img.shields.io/github/forks/monnydyas/bewear-bootcamp?style=social" alt="Forks"/>
+
+
+<p>
+  <img src="https://img.shields.io/github/stars/monnydyas?affiliations=OWNER&style=for-the-badge" alt="Total Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=monnydyas&style=for-the-badge&rounded=true" alt="Profile Views"/>
+</p>
+
+
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
