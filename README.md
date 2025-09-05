@@ -35,7 +35,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=monnydyas&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dracula&hide_border=true&bg_color=00000000" height="340" width="303" alt="languages graph" />
 </div>
 
-  [![Monnydyas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=monnydyas&bg_color=00000000&color=1e90ff&line=1e90ff&point=ffffff&area=true&hide_border=true&hide_title=true)](https://github.com/monnydyas/github-readme-activity-graph)
+  [![Monnydyas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=monnydyas&bg_color=00000000&color=d85d80&line=7dd8fa&point=ffffff&area=true&hide_border=true&hide_title=true)](https://github.com/monnydyas/github-readme-activity-graph)
 
 
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHVnODdjdTdsYzRqMWZmNng0bGVqaXRkaWduMHowaXJjdDFkdjFkYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1679iPKc2ZP840Hxjp/giphy.gif" width ="18"><b> My Contributions</b>
