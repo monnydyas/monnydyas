@@ -30,7 +30,12 @@
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG85aXdwNXM0bXZuNjRtcmFsanRtdjdmaTJ2dzVsNGpoc3VkNTMzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cZRV5iQPg7dh2Ffsgg/giphy.gif" width ="30"><b> My Contributions</b>
 
 <div align="center">
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/monnydyas/monnydyas/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/monnydyas/monnydyas/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/monnydyas/monnydyas/output/pacman-contribution-graph.svg">
+</picture>
+  
  <picture>
   <source
     media="(prefers-color-scheme: dark)"
