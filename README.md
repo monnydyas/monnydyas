@@ -31,8 +31,8 @@
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=monnydyas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&bg_color=00000000" height="200" width="305" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monnydyas&theme=dracula&hide_border=true&background=00000000" height="220" width="335" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=monnydyas&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dracula&hide_border=true&bg_color=00000000" height="340" width="280" alt="languages graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monnydyas&theme=dracula&hide_border=true&background=00000000" height="220" width="325" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=monnydyas&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dracula&hide_border=true&bg_color=00000000" height="340" width="260" alt="languages graph" />
 </div>
 
   [![Monnydyas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=monnydyas&bg_color=00000000&color=d85d80&line=7dd8fa&point=ffffff&area=true&hide_border=true&hide_title=true)](https://github.com/monnydyas/github-readme-activity-graph)
