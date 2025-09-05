@@ -31,7 +31,7 @@
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=monnydyas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&bg_color=00000000" height="200" width="305" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monnydyas&theme=dracula&hide_border=true&background=00000000" height="210" width="315" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monnydyas&theme=dracula&hide_border=true&background=00000000" height="210" width="305" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=monnydyas&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dracula&hide_border=true&bg_color=00000000" height="320" width="230" alt="languages graph" />
 </div>
 
