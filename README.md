@@ -41,12 +41,12 @@
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHVnODdjdTdsYzRqMWZmNng0bGVqaXRkaWduMHowaXJjdDFkdjFkYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1679iPKc2ZP840Hxjp/giphy.gif" width ="18"><b> My Contributions</b>
 
 <div align="center">
-<picture>
+ <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/monnydyas/monnydyas/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/monnydyas/monnydyas/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/monnydyas/monnydyas/output/pacman-contribution-graph.svg">
 </picture>
-
+  
 <br/>
  
 </div>
