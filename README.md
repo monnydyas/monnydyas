@@ -23,7 +23,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"><b> My Stack & Tools</b>
 
-  ![My Skills](https://skillicons.dev/icons?i=git,github,js,ts,html,css,vscode,react,nodejs,postgresql,tailwind,nextjs,figma,vscode)
+  ![My Skills](https://skillicons.dev/icons?i=git,github,js,ts,html,css,vscode,react,nodejs,postgresql,tailwind,nextjs,npm,figma,vscode)
 
 <br/>
 
